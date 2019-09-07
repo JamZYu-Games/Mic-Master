@@ -1,0 +1,4 @@
+.DS_Store
+# Files related to project submission
+Build*
+*.txt 
